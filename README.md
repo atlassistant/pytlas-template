@@ -2,7 +2,7 @@ pytlas-{TEMPLATE_SKILL_NAME}  [![Build Status](https://travis-ci.org/atlassistan
 ===
 
 {TEMPLATE_SKILL_DESCRIPTION}.
-*For detailed informations about skill creation please take a look at [https://julien.leicher.me/coding/writing-your-first-pytlas-skill/].*
+*For detailed informations about skill creation please take a look at [this article (in french)](https://julien.leicher.me/coding/writing-your-first-pytlas-skill/).*
 
 
 ## Supported languages
