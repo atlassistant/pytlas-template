@@ -19,5 +19,5 @@ In order to launch tests, you will need to install required dependencies and the
 
 ```bash
 $ pip install -r requirements_tests.txt
-$ python -m nose --with-coverage --cover-package=TEMPALTE_SKILL_PACKAGE
+$ python -m nose --with-coverage --cover-package=TEMPLATE_SKILL_PACKAGE
 ```
