@@ -6,4 +6,4 @@ install:
   - pip install -r requirements_tests.txt
   - snips-nlu download-all-languages
 script:
-  - python -m nose --with-doctest --with-xcoverage --cover-package=TEMPLATE-PACKAGE
+  - python -m nose --with-doctest --with-xcoverage --cover-package=TEMPLATE_SKILL_PACKAGE
