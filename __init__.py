@@ -1,1 +1,1 @@
-from .template_skill import *
+from .skill import *
