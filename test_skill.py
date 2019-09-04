@@ -1,6 +1,6 @@
+import os
 from sure import expect
 from pytlas.testing import create_skill_agent
-import os
 
 # Testing a pytlas skill is easy.
 # Start by instantiating an agent trained only for this skill.
